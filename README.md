@@ -33,6 +33,8 @@ Full Stack Software Engineer with expertise in building scalable web application
 ## 💻 Technical Proficiency
 
 ### 🎨 Frontend Development
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000&label=)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=flat-square&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Next.js](https://img.shields.io/static/v1?style=flat-square&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
@@ -76,6 +78,12 @@ Full Stack Software Engineer with expertise in building scalable web application
 ### 🚀 DevOps & Infrastructure
 ![Docker](https://img.shields.io/static/v1?style=flat-square&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Vercel](https://img.shields.io/static/v1?style=flat-square&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+![Netlify](https://img.shields.io/static/v1?style=flat-square&message=Netlify&color=00C7B7&logo=Netlify&logoColor=FFFFFF&label=)
+![Railway](https://img.shields.io/static/v1?style=flat-square&message=Railway&color=0B0D0E&logo=Railway&logoColor=FFFFFF&label=)
+![Render](https://img.shields.io/static/v1?style=flat-square&message=Render&color=46E3B7&logo=Render&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat-square&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/static/v1?style=flat-square&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+![Bitbucket](https://img.shields.io/static/v1?style=flat-square&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
+![Jira](https://img.shields.io/static/v1?style=flat-square&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 ![AWS](https://img.shields.io/static/v1?style=flat-square&message=AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
