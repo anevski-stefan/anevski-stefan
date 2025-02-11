@@ -57,7 +57,10 @@ Full Stack Software Engineer with expertise in building scalable web application
 ![C++](https://img.shields.io/static/v1?style=flat-square&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=flat-square&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+
+### 🔐 Authentication & Middleware
 ![Passport](https://img.shields.io/static/v1?style=flat-square&message=Passport&color=34E27A&logo=Passport&logoColor=FFFFFF&label=)
+![Supabase](https://img.shields.io/static/v1?style=flat-square&message=Supabase+Auth&color=3FCF8E&logo=Supabase&logoColor=FFFFFF&label=)
 
 ### 🧪 Testing
 ![JUnit](https://img.shields.io/static/v1?style=flat-square&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
